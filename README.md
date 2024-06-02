@@ -24,3 +24,6 @@ pipe(prompt=prompt): Generates images based on the provided prompt.
 .images[0]: Extracts the first generated image from the result.
 
 ![image](https://github.com/aungkaungpyaepaing/Text_to_image_using_Pre_Trained_Model/assets/88584127/7838d50d-954d-4e73-90d1-393a3048613c)
+
+Kaggle link
+https://medium.com/@kaungpyae.kp27/text-to-image-generator-using-a-pre-trained-model-a7ae0b6de475
