@@ -23,3 +23,4 @@ prompt = "a man riding a horse on the moon": Defines the text prompt that descri
 pipe(prompt=prompt): Generates images based on the provided prompt.
 .images[0]: Extracts the first generated image from the result.
 
+![Uploading image.png…]()
